@@ -1,0 +1,15 @@
+{
+  "title": "Satbond | Professional-Grade Adhesive Technology",
+  "description": "Satbond delivers professional-grade instant adhesives engineered for master craftsmen, industrial bonding, woodworking, footwear, and hardware repair.",
+  "language": "en",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
